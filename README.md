@@ -1,4 +1,4 @@
-# COFFEE-SHOP-SALES
+# EXCEL - COFFEE-SHOP-SALES
 
 FIRST EXCEL PROJECT 
 MAIN OBJECTIVE OF THIS PROJECT IS TO ANALYZE RETAIL SALES data to gain actionable insights that will enhance the performance of coffee shop. 
